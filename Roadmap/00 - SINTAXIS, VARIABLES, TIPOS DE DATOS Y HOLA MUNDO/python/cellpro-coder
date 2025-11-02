@@ -1,0 +1,20 @@
+https://www.python.org/
+
+Comentario en una linea 
+"""
+  esyto tambien es
+  un comebtario 
+  en varias lineas
+  """
+  
+'''
+   esyto tambien es
+  un comebtario 
+  en varias lineas
+'''
+
+  my_variable = "Mi variable"
+  my_variable = "nuevo valor de mi variable"
+
+  MY_CONSTANT = "Mi constante"  # por convencion 
+  MY_CONSTANT = "LAJDSLAJDLJAL"
